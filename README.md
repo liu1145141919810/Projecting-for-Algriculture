@@ -15,9 +15,9 @@ The amount of years needing calculation should also be defined by users
 The formats would be filling along with the loops, each loop would fill one format
 During each case, an object for calculating the relative data would be created, and the formats would be filled accroding
 to the components after the working process of the objects
-### 3)For the related materials
+#### 3)For the related materials
 The introduction about the problem and the format files which include the original information are all provided in the file blank
-### 4)Brief telling about the mechanism for the provided class
+#### 4)Brief telling about the mechanism for the provided class
 1)Land blocks and the types of crops would be take consideration as different types of objects respectively
 2)For each type of crops class, its objects would record the most benificial method to till the land
 3)A priority for the crop types is constructed, prove that the most benificial way would be taken in consideration first
@@ -27,5 +27,6 @@ The introduction about the problem and the format files which include the origin
 `The changes are made accroding to the changes of most benificial planting method`
 7)After the first season, the next loop for planting would be activated for the season 2, and the priority queue would be modulated for this period
 8)The results would be stored in the related attributes for updating the original data and output the results
-
+### 3) Warning:
+Although the brief framework has been constructed in a not bad degree, there may be still a lot of glitches needing debugging 
 
